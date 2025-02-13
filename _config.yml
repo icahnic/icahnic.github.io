@@ -20,8 +20,9 @@ author: icahnic
 ###############################################
 
 navbar-links:
+  X: "https://www.x.com/icahnic"
   About Me: "aboutme"
-  Author's home: "https://YOURUSERNAME.github.io"
+  
 
 ################
 # --- Logo --- #
