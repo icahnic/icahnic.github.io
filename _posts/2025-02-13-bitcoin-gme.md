@@ -20,11 +20,11 @@ Cohen, known for his conservative capital allocation (e.g., $4.6 billion in cash
 ## Why MSTR’s 21/21 Plan Fits Cohen’s Playbook
 MicroStrategy’s capital structure offers unique advantages for a company like GameStop:
 
-1) Stealth Exposure: A sub-5% stake in MSTR’s equity or debt would avoid SEC reporting thresholds, allowing GME to accumulate silently.
+1) **Stealth Exposure**: A sub-5% stake in MSTR’s equity or debt would avoid SEC reporting thresholds, allowing GME to accumulate silently.
 
-2) Leveraged Bitcoin Growth: MSTR’s “BTC Yield” metric—a 17.8% annualized return in 2024—enables shareholders to benefit from Bitcoin’s appreciation without holding it directly 115.
+2) **Leveraged Bitcoin Growth**: MSTR’s “BTC Yield” metric—a 17.8% annualized return in 2024—enables shareholders to benefit from Bitcoin’s appreciation without holding it directly 115.
 
-3) Debt Refinancing Wins: MSTR’s 0.8% blended interest rate on convertible notes makes its debt offerings attractive for corporate treasuries seeking yield 715.
+3) **Debt Refinancing Wins**: MSTR’s 0.8% blended interest rate on convertible notes makes its debt offerings attractive for corporate treasuries seeking yield 715.
 
 For Cohen, deploying even 2-5% of GameStop’s cash (92–230 million) into MSTR’s ATM or convertible bonds could mirror his past investments in Apple and Tesla—strategic, under-the-radar bets on disruptive trends.
 
@@ -40,11 +40,11 @@ While critics argue that direct Bitcoin purchases would be simpler, MSTR’s mod
 For GameStop, a small MSTR stake could hedge against inflation and diversify its $2.5 billion cash pile––without the political backlash of direct BTC buys.
 
 ## Counterarguments and Risks
-1) Dilution Concerns: MSTR’s aggressive equity raises risk shareholder dilution, though its BTC-per-share ratio has grown 438% annually.
+1) **Dilution Concerns**: MSTR’s aggressive equity raises risk shareholder dilution, though its BTC-per-share ratio has grown 438% annually.
 
-2) Volatility: MSTR’s stock swings wildly with Bitcoin’s price, potentially unsettling conservative investors.
+2) **Volatility**: MSTR’s stock swings wildly with Bitcoin’s price, potentially unsettling conservative investors.
 
-3) No Public Evidence: Neither company has disclosed a partnership, leaving the theory speculative.
+3) **No Public Evidence**: Neither company has disclosed a partnership, leaving the theory speculative.
 
 Still, Cohen’s history of unconventional moves (e.g., $CHWY, GameStop NFT marketplace) suggests he might embrace such a gamble.
 
